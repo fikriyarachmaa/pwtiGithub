@@ -1,4 +1,4 @@
 # pwtiGithub
-# FIKRIYA RACHMA DEWI
-# NIM 215510600111008
-# PWTI - B
+| NAMA |  NIM  |  KELAS   
+|--|--|--|
+| Fikriya Rachma Dewi  |  215150600111008     |  PWTI PTI-B
